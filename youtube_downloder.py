@@ -8,9 +8,9 @@ from tkinter import messagebox, filedialog
 # to create necessary tkinter widgets
 def Widgets():
  
-    head_label = Label(root, text="YouTube Video Downloader Using Tkinter",
-                       padx=15,
-                       pady=15,
+    head_label = Label(root, text="YouTube Video Downloader Using Tkinter Library",
+                       padx=16,
+                       pady=16,
                        font="SegoeUI 14",
                        bg="palegreen1",
                        fg="red")
